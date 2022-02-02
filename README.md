@@ -28,5 +28,7 @@ The installation script will provide a unique key, which will be entered in the 
 INSTALL Command
 
 apt-get install wget
+
 wget https://raw.githubusercontent.com/UnknownDev2018/DNSTT_Custom_Server/main/DNSTT-Custom-Server-Binary -O DNSTT-Custom-Server-Binary && chmod +x DNSTT-Custom-Server-Binary
+
 ./DNSTT-Custom-Server-Binary
